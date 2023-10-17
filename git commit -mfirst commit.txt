@@ -1,0 +1,29 @@
+awwel haja nemchi lel dossier eli n7eb npartagihh w namel button droit "open git bash here" yet7ali l bash nebda ntapi fel les commend hedhom
+
+ git commit -m"first commit"
+"bech neb3ath les fichierr"
+
+ git add html
+"bech nzid lkoll"
+
+ git add html
+"bech nhadhar l html bech nhabtou"
+
+git status
+"chnouma les fichier eli mawjoudin nejem nhadharhom bech yetba3thou"
+
+git init
+bech nthabeet est ce que l hib hadheer welaa 
+
+
+ git remote add origin git@github.com:ala29/testgithub.git
+"beech na3tih lien eli bech ysob fihh"
+
+
+git push -u origin master
+"bech n9olou bara eb3ath fel lien eli 9otleek alih w kan ena bel main nhot main w ken ena bel master n7ot master"
+
+git push -f -u origin master
+"kaan sar ereur fel commande hedhi git push -u origin master nwali na3mel l commande hedhi"
+
+nodkhol l github nemchi l setting w nel9a al issar colaboritors w baad louta add people w nhot maill
